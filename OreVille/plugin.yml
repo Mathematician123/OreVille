@@ -1,0 +1,4 @@
+name: OreVille
+main: me.Mathematician.OreVille.OreVille
+version: 0.0.1
+softdepend: [HolographicDisplays, ActionAnnouncer]
